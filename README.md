@@ -1,0 +1,1 @@
+This Python script provides a packet sniffer tool that captures and analyzes network packets. It offers options for packet capture, analysis, and generates a text-based report. The script includes a user-friendly menu interface for interaction.
